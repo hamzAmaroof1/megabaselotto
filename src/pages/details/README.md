@@ -1,0 +1,1 @@
+currently using LotteryModal, but LotteryDetails also usable
